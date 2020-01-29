@@ -1,10 +1,10 @@
 #write your code here
 
 def countdown(count)
-    while count >0
-      puts "#{count} seconds!"
+  while count >0
+    puts "#{count} seconds!"
       count-=1
-    end
+  end
     "0 left. HAPPY NEW YEAR!"
 end
 
