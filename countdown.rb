@@ -1,5 +1,5 @@
 #write your code here
-def using_while
+def countdown_with_sleep
 	countdown = 12	
 	while countdown < 12	
 		puts "#{countdown} SECOND(S)!"	
